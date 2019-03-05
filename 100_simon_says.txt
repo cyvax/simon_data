@@ -1,0 +1,18 @@
+this is 500 run of simon_says (i don't add key if this already exist in list.)
+
+[
+    "As you can see, if we turn things around we can meet the requirements at the end of the fiscal quarter",
+    "Are you a professional or not?",
+    "I think I was around five years old when I started delaying games.",
+    "I eat the keys to survive",
+    "Whats wrong, jace?",
+    "Sure thing, man!",
+    "What about keys?",
+    "I eat the keys",
+    "It's gonna make a lot of keys",
+    "What the fuck man?!",
+    "You have been taking the keys away from me Jace, so I need to take you away from the Keys",
+    "The Keys Jace, I need them",
+    "No, you don't",
+    "Like ice cream"
+]
